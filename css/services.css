@@ -1,0 +1,62 @@
+.biz-services h4 {
+    color: #537184;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Montserrat", sans-serif;
+    text-align: center;
+    padding-top: 200px;
+    padding-bottom: 50px;
+  }
+  
+  .biz-services {
+    margin-top: -130px;
+    padding-bottom: 60px;
+  }
+  
+  .biz-services a {
+    color: #537184;
+  }
+  
+  .biz-services img {
+    padding-top: 100px;
+    padding-bottom: 30px;
+  }
+  
+  .biz-services h2 {
+    color: #575557;
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom: 20px;
+  }
+  
+  .biz-services p {
+    color: #575557;
+    font-size: 18px !important;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .biz-services li {
+    color: #575557;
+    font-size: 18px !important;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .biz-services ul {
+    margin-top: 20px;
+  }
+  
+  .service-conclusion p {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    color: #4c4c4c;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 19px;
+  }
+  
+  /* Smartphones (portrait and landscape) ----------- */
+  
+  @media only screen and (max-width: 600px) {
+    .accounting-biz-services h4 {
+      font-size: 25px;
+    }
